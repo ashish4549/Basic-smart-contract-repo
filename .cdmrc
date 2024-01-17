@@ -1,2 +1,2 @@
 terminal-one: npm install hardhat
-tabs: ['contracts/Upload.sol']
+tabs: ['README.md']
